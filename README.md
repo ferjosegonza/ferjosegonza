@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects with Laravel, PHP, JS, HTML, CSS, PostgreSQL<br>🌱 I’m currently learning Java<br>👯 I’m looking to collaborate on the mentioned skills<br>🤔 I’m looking for help with how to work remotely in different time zones<br>💬 Ask me about the skills I work with<br>
+🥇 Degree in Computer Science<br>🔭 Currently working on projects with Laravel, PHP, JS, HTML, CSS, PostgreSQL<br>🌱 Currently learning Java<br>👯 Looking to collaborate on the mentioned skills<br>🤔 Looking for help with how to work remotely in different time zones<br>💬 Ask me about the skills I work with<br>
 
 
 ## 🌐 Socials:
